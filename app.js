@@ -1,1 +1,2 @@
 alert("Bienvenidos");
+alert("Bye");
